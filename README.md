@@ -1,5 +1,7 @@
 # Housing Price Prediction 
 
+![pexels-pixabay-164558](https://github.com/kimberlytew/predict-housing-price-_advanced-regression/assets/116537017/7c9f7db0-69eb-424a-b46a-90fac2f4a25b)
+
 Business Problem：
 
 The goal is to predict the various type of Housing price by using advance regression in machine learning model.  Varieties property Attributes data are collected and used to train the model to predic house price. \

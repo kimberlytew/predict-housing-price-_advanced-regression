@@ -4,7 +4,7 @@
 
 Business Problem：
 
-The goal is to predict the various type of Housing price by using advance regression in machine learning model.  Varieties property Attributes data are collected and used to train the model to predic house price. \
+The goal is to predict the various type of Housing price by using advance regression in machine learning model.  Varieties property Attributes data are collected and used to train the model to predic house price. 
 
 Data:
 
